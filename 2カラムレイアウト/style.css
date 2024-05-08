@@ -50,14 +50,14 @@ main {
       float: left;
       background-color: lightblue;
       width: 70%;
-      height: 550px;
+      height: 520px;
 }
 
 .left {
       float: left;
       background-color: skyblue;
       width: 30%;
-      height: 550px;
+      height: 520px;
 }
 
 footer {
